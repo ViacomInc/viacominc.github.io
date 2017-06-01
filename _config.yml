@@ -1,0 +1,8 @@
+title: Viacom Open Source Software
+description: Open source from the software engineers behind Comedy Central, Nickelodeon, MTV, VH1, and many other of your favorite brands.
+google_analytics: UA-56795771-1
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
